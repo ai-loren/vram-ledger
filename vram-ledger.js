@@ -1,4 +1,3 @@
-// 正本在 https://github.com/ai-loren/vram-ledger ；个人主页里的 tools/vram-ledger.js 是逐字节复制件，改动先改正本再复制过去。
 (() => {
   'use strict';
 
